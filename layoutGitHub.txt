@@ -1,0 +1,60 @@
+https://forms.gle/WENd9QjbSYWCcDR2A
+
+
+https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif
+
+
+LINKS ÚTEIS:
+
+Códigos de Emojis
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+
+
+Badges
+https://shields.io/  
+https://github.com/Ileriayo/markdown-badges
+
+[https://img.shields.io/badge/ opcoes aqui]
+
+
+Ícones:
+https://simpleicons.org/
+
+Dev Ícones:
+https://devicon.dev/
+
+Github Status:
+https://github.com/anuraghazra/github-readme-stats
+
+Card de status:  https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&theme=dracula
+Card de linguagens:  https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&theme=dracula
+
+
+INSPIRAÇÕES
+https://zzetao.github.io/awesome-github-profile/
+
+=======================================================
+<div align="right">
+  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif">
+</div>
+
+<div>
+  <p>"O melhor programador do mundo combina habilidades técnicas excepcionais, criatividade, ética e paixão pela programação, promovendo inovação e soluções eficazes."</p>
+
+<ul>
+  <li> :man_student: Excelência Técnica</li>
+  <li>Solucionador de Problemas Brilhante</li>
+</ul>
+</div>
+
+<div>
+  <a href="#">
+    <img src="https://img.shields.io/badge/meu_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:seu-email@mail.com">
+    <img src="https://img.shields.io/badge/meu_email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white"/>
+  </a>
+</div>
+
